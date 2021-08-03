@@ -23,7 +23,7 @@ email: meghan.hayden@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I am currently a doctoral student in the Dee Lab in the Department of Ecology & Evolutionary Biology at University of Colorado, Boulder. I am interested in 
   understanding how shifts in plant communities influence ecosystem functioning through a functional trait based approach.
-baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
+baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://mthayden4726.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MeghanTHayden
 github_username:  mthayden4726
